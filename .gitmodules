@@ -1,0 +1,3 @@
+[submodule "stylesheets"]
+	path = stylesheets
+	url = https://github.com/githubstudent/example-styles
